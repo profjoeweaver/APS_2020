@@ -77,31 +77,31 @@ All measures were converted to proportion change scores such that positive score
 
 *Change in Self-Perception*
 
-![Change in Self-Perception](https://github.com/profjoeweaver/APS_2020/blob/master/Figure1SelfPerceptionChange.png | width=50)
+![Change in Self-Perception](https://github.com/profjoeweaver/APS_2020/blob/master/Figure1SelfPerceptionChange.png)
 
 **Figure 7**
 
 *Change in Assignment Scores*
 
-![Change in Assignment Scores](https://github.com/profjoeweaver/APS_2020/blob/master/Figure2AssignmentChange.png | width=50)
+![Change in Assignment Scores](https://github.com/profjoeweaver/APS_2020/blob/master/Figure2AssignmentChange.png)
 
 **Figure 8**
 
 *Change in Test Scores*
 
-![Change in Test Scores](https://github.com/profjoeweaver/APS_2020/blob/master/Figure3TestChange.png | width=50)
+![Change in Test Scores](https://github.com/profjoeweaver/APS_2020/blob/master/Figure3TestChange.png)
 
 **Figure 9**
 
 *Change in BIO-CLASS Attitudes*
 
-![Change in BIO-CLASS Attitudes](https://github.com/profjoeweaver/APS_2020/blob/master/Figure4Attitude.png | width=50)
+![Change in BIO-CLASS Attitudes](https://github.com/profjoeweaver/APS_2020/blob/master/Figure4Attitude.png)
 
 **Figure 10**
 
 *Heatmap of Average BIO-CLASS and Research-Critical Skills*
 
-![Heatmap of Average BIO-CLASS and Research-Critical Skills](https://github.com/profjoeweaver/APS_2020/blob/master/Figure5HeatmapCLASSBioTest.png | width=50)
+![Heatmap of Average BIO-CLASS and Research-Critical Skills](https://github.com/profjoeweaver/APS_2020/blob/master/Figure5HeatmapCLASSBioTest.png)
 
 # Discussion
 
