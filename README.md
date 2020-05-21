@@ -1,2 +1,18 @@
-# APS_2020
-Supplementary Information for APS Poster Session
+# Improving Aptitudes and Attitudes through Student-Generated Case Studies
+
+Joseph S. Weaver, Ph.D.<sup>1</sup> & Sylvia Fromherz, Ph.D.<sup>2</sup>
+
+Saginaw Valley State University
+<sup>1</sup> Department of Psychology, <sup>2</sup> Department of Biology
+
+# Research Summary
+
+This research was a collaboration between psychology and biology faculty to investigate the impact of a semester-long active learning assignment on 1) improvement in ability to read technical literature, ability to interpret data presented in figures, understand core course concepts and 2) changes in attitudes toward science. The project, a student-written case-study, involved finding an empirical article in the related field (cell biology), locating a "data figure" in article that summarized the results of part of the research (using the information in the article,), interpreting and summarizing the results presented in the data figure, writing an MCAT style passage related to the data figure, developing a clear figure caption for the data figure and constructing 5 MCAT-style multiple-choice questions.
+
+Students volunteers across three semesters (FA 18 – FA 19) completed the project in multiple stages including the submission of empirical article with identification of data figure, a pre-draft of interpretation of information related to figure, a rough draft of write-up and questions and a final draft. Students were also assessed longitudinally on perceptions of and mastery of project and course content The pre- and post- measures consisted of attitudes related to field of study (using the BIOClass assessment [Semsar, Knight, Birol & Smith, 2011]), mastery of core course concepts, technical reading ability, data interpretation / inference and primary literature component identification. The longitudinal (with submission of each project stage) assessments were of self-perceptions of one’s ability to do well on the project, one’s clarity on details of the project, one’s ability to understand the data figure, one’s ability to verbally explain the data figure, and one’s ability to explain the data figure in writing.
+
+All measures were converted to proportion change scores such that positive scores across assignments or tests indicated an improvement in scores whereas a negative score for attitudes reflected moving closer to expert opinion. Students reported significant increases in self-perceptions (*t*s[22] >2.64, *p*s < .02), assignment scores (*t*[56] = 6.57, *p* < .001), test-scores (*t*s[68] > 4.44, *p*s < .0001), and significantly closer to expert attitudes on “real world connections” (*t*[65] = 2.43, *p* = 0.017), “problem solving: reasoning” (*t*[65] = 2.49, *p* = 0.015), “problem solving: strategies” (*t*[65] = 4.23, *p* < .001), “problem solving: effort” (*t*[65] = 4.67, p < .001) and “conceptual connections / memorization” (*t*[65] = 3.71, *p* < .001). It was hypothesized that improvement in assignment scores would be associated with changes in attitude and test scores but this was not supported. This may be due to changes in grading rubrics across semesters. Interestingly, those whose attitudes more aligned with experts across the semester improved more on measures of primary literature identification (*r*[63] = -0.43, *p* < 0.001), data interpretation (*r*[63] = -0.37, *p* < 0.005), and mastery of course concepts (*r*[63] = -0.46, p < 0.001).
+
+### References
+
+Semsar, K., Knight, J. K., Birol, G., & Smith, M. K. (2011). The Colorado Learning Attitudes about Science Survey (CLASS) for use in Biology. CBE life sciences education, 10(3), 268–278. doi:10.1187/cbe.10-10-0133
