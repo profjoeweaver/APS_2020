@@ -77,7 +77,7 @@ All measures were converted to proportion change scores such that positive score
 
 *Change in Self-Perception*
 
-![Change in Self-Perception](https://github.com/profjoeweaver/APS_2020/blob/master/Figure1SelfPerceptionChange.png)
+![Change in Self-Perception](https://github.com/profjoeweaver/APS_2020/blob/master/Figure1SelfPerceptionChange.png){width=50%}
 
 **Figure 7**
 
