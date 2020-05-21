@@ -73,6 +73,36 @@ The self-perceptions were assessed on 4-point, Likert-type scales (see Table 1)
 # Results
 All measures were converted to proportion change scores such that positive scores across assignments or tests indicated an improvement in scores whereas a negative score for attitudes reflected moving closer to expert opinion. Students reported significant increases in self-perceptions (*t*s[22] >2.64, *p*s < .02; see Figure 6), assignment scores (*t*[56] = 6.57, *p* < .001; see Figure 7), test-scores (*t*s[68] > 4.44, *p*s < .0001; see Figure 8), and significantly closer to expert attitudes on “real world connections” (*t*[65] = 2.43, *p* = 0.017), “problem solving: reasoning” (*t*[65] = 2.49, *p* = 0.015), “problem solving: strategies” (*t*[65] = 4.23, *p* < .001), “problem solving: effort” (*t*[65] = 4.67, p < .001) and “conceptual connections / memorization” (*t*[65] = 3.71, *p* < .001; see Figure 9). It was hypothesized that improvement in assignment scores would be associated with changes in attitude and test scores, but this was not supported. This may be due to changes in grading rubrics across semesters. Interestingly, those whose attitudes more aligned with experts across the semester improved more on measures of primary literature identification (*r*[63] = -0.43, *p* < 0.001), data interpretation (*r*[63] = -0.37, *p* < 0.005), and mastery of course concepts (*r*[63] = -0.46, p < 0.001; See Figure 10).
 
+**Figure 6**
+
+*Change in Self-Perception*
+
+![Change in Self-Perception](https://github.com/profjoeweaver/APS_2020/blob/master/Figure1SelfPerceptionChange.png)
+
+**Figure 7**
+
+*Change in Assignment Scores*
+
+![Change in Assignment Scores](https://github.com/profjoeweaver/APS_2020/blob/master/Figure2AssignmentChange.png)
+
+**Figure 8**
+
+*Change in Test Scores*
+
+![Change in Test Scores](https://github.com/profjoeweaver/APS_2020/blob/master/Figure3TestChange.png)
+
+**Figure 9**
+
+*Change in BIO-CLASS Attitudes*
+
+![Change in BIO-CLASS Attitudes](https://github.com/profjoeweaver/APS_2020/blob/master/Figure4Attitude.png)
+
+**Figure 10**
+
+*Heatmap of Average BIO-CLASS and Research-Critical Skills*
+
+![Heatmap of Average BIO-CLASS and Research-Critical Skills](https://github.com/profjoeweaver/APS_2020/blob/master/Figure5HeatmapCLASSBioTest.png)
+
 # Discussion
 
 We believe this is a promising approach to improve research-critical skills in many sciences (i.e., chemistry, psychology, etc.). The current study utilized a within-subjects and correlational design to assess growth in research-critical skills. Although there are some benefits to this approach (greater statistical power), it did present some challenges. First, the need to develop two grading systems (one for pedagogy and scaffolding, the other for growth assessment) was a lesson learned during the project. Second, the need to update pedagogy across semesters increased variability (perhaps affected the reliability) of our assessments. Third, the within-subjects design only allowed us to see the growth within this approach but did not provide an opportunity to directly compare the method to other (or no) methods.
