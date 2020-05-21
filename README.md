@@ -43,7 +43,10 @@ The research-related skills assessed as part of a pre-test and post-test (final)
 
 These research-related skills assessed as composite scales (mean) of correctly answer questions on the test. Example items can be found in Figures 2 through 5.
 
-
+| Figure 2 | Figure 3 | Figure 4 | Figure 5 |
+| :---: | :---: | :---: | :---: |
+| Core Biology | Technical Reading | Data Interpretation | Primary Literature |
+| ![Core Biology](https://github.com/profjoeweaver/APS_2020/blob/master/CellBioConcept.PNG) | ![Technical Reading](https://github.com/profjoeweaver/APS_2020/blob/master/TechnicalReading.PNG) | ![Data Interpretation](https://github.com/profjoeweaver/APS_2020/blob/master/DataAnalysis.PNG) | ![Primary Literature](https://github.com/profjoeweaver/APS_2020/blob/master/PrimaryLit.PNG) |
 
 The longitudinal (with submission of each project stage) assessments were of self-perceptions of one’s:
 
@@ -68,7 +71,7 @@ The self-perceptions were assessed on 4-point, Likert-type scales (see Table 1)
 | <sub>I am ___ that I can clearly explain my figure in writing</sub> | <p><sub>Completely Unconfident</sub></p><p><sub>Somewhat Unconfident</sub></p><p><sub>Somewhat Confident</sub></p><p><sub>Completely Confident</sub></p> |
 
 # Results
-All measures were converted to proportion change scores such that positive scores across assignments or tests indicated an improvement in scores whereas a negative score for attitudes reflected moving closer to expert opinion. Students reported significant increases in self-perceptions (*t*s[22] >2.64, *p*s < .02), assignment scores (*t*[56] = 6.57, *p* < .001), test-scores (*t*s[68] > 4.44, *p*s < .0001), and significantly closer to expert attitudes on “real world connections” (*t*[65] = 2.43, *p* = 0.017), “problem solving: reasoning” (*t*[65] = 2.49, *p* = 0.015), “problem solving: strategies” (*t*[65] = 4.23, *p* < .001), “problem solving: effort” (*t*[65] = 4.67, p < .001) and “conceptual connections / memorization” (*t*[65] = 3.71, *p* < .001). It was hypothesized that improvement in assignment scores would be associated with changes in attitude and test scores, but this was not supported. This may be due to changes in grading rubrics across semesters. Interestingly, those whose attitudes more aligned with experts across the semester improved more on measures of primary literature identification (*r*[63] = -0.43, *p* < 0.001), data interpretation (*r*[63] = -0.37, *p* < 0.005), and mastery of course concepts (*r*[63] = -0.46, p < 0.001).
+All measures were converted to proportion change scores such that positive scores across assignments or tests indicated an improvement in scores whereas a negative score for attitudes reflected moving closer to expert opinion. Students reported significant increases in self-perceptions (*t*s[22] >2.64, *p*s < .02; see Figure 6), assignment scores (*t*[56] = 6.57, *p* < .001; see Figure 7), test-scores (*t*s[68] > 4.44, *p*s < .0001; see Figure 8), and significantly closer to expert attitudes on “real world connections” (*t*[65] = 2.43, *p* = 0.017), “problem solving: reasoning” (*t*[65] = 2.49, *p* = 0.015), “problem solving: strategies” (*t*[65] = 4.23, *p* < .001), “problem solving: effort” (*t*[65] = 4.67, p < .001) and “conceptual connections / memorization” (*t*[65] = 3.71, *p* < .001; see Figure 9). It was hypothesized that improvement in assignment scores would be associated with changes in attitude and test scores, but this was not supported. This may be due to changes in grading rubrics across semesters. Interestingly, those whose attitudes more aligned with experts across the semester improved more on measures of primary literature identification (*r*[63] = -0.43, *p* < 0.001), data interpretation (*r*[63] = -0.37, *p* < 0.005), and mastery of course concepts (*r*[63] = -0.46, p < 0.001; See Figure 10).
 
 # Discussion
 
