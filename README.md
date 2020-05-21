@@ -18,7 +18,7 @@ Students volunteers across three semesters (FA 18 – FA 19) completed the proje
 
 *Assessment Rubric*
 
-![Assessment Rubric](https://github.com/profjoeweaver/APS_2020/RubricScreenShot.PNG)
+![Assessment Rubric](https://github.com/profjoeweaver/APS_2020/blob/master/RubricScreenShot.PNG)
 
 Students were also assessed longitudinally on perceptions of and mastery of project and course content The pre- and post- measures consisted of attitudes related to field of study (using the BIO-Class assessment [Semsar, Knight, Birol & Smith, 2011]) and research-related skills. The BIO-Class assesses student attitudes in seven domains: 
 
