@@ -16,7 +16,7 @@ Evidence-based best educational practices support a pedagogical model that is st
 
 # Methods
 
-Students volunteers across three semesters (FA 18 – FA 19) completed the project in multiple stages including the submission of empirical article with identification of data figure, a pre-draft of interpretation of information related to figure, a rough draft of write-up and questions and a final draft. The scoring of these assignments changed over the three semesters that the study was run. Initially, the pre-draft and rough draft were graded by completion of, not success in, each criteria (see Figure 1). In the last semester, the instructor graded the pre-draft and rough-draft using both a "mastery" orientation and and "effort" orientation. Whereas the scores from the "mastery" orientation were used for research purposes to assess growth, the "effort" orientation scores were used to scaffold students toward the final draft.
+Students volunteers across three semesters (FA 18 – FA 19) completed the project in multiple stages including the submission of empirical article with identification of data figure, a pre-draft of interpretation of information related to figure, a rough draft of write-up and questions and a final draft. The scoring of these assignments changed over the three semesters that the study was run. Initially, the pre-draft and rough draft were graded by completion of, not success in, each criterion (see Figure 1). In the last semester, the instructor graded the pre-draft and rough-draft using both a "mastery" orientation and an "effort" orientation. Whereas the scores from the "mastery" orientation were used for research purposes to assess growth, the "effort" orientation scores were used to scaffold students toward the final draft.
 
 **Figure 1**
 
@@ -24,7 +24,7 @@ Students volunteers across three semesters (FA 18 – FA 19) completed the proje
 
 ![Assessment Rubric](https://github.com/profjoeweaver/APS_2020/blob/master/RubricScreenShot.PNG)
 
-Students were also assessed longitudinally on perceptions of and mastery of project and course content The pre- and post- measures consisted of attitudes related to field of study (using the BIO-Class assessment [Semsar, Knight, Birol & Smith, 2011]) and research-critical skills. The BIO-Class assesses student attitudes in seven domains: 
+Students were also assessed longitudinally on perceptions of and mastery of project and course content. The pre- and post- measures consisted of attitudes related to field of study (using the BIO-Class assessment [Semsar, Knight, Birol & Smith, 2011]) and research-critical skills. The BIO-Class assesses student attitudes in seven domains: 
 
 - Enjoyment (Personal Interest)
 - Real World Connection
@@ -41,7 +41,9 @@ The research-related skills assessed as part of a pre-test and post-test (final)
 - Data interpretation / inference, and
 - Primary literature component identification.
 
-These research-related skills assessed as composite scales (mean) of correctly answer questions on the test.
+These research-related skills assessed as composite scales (mean) of correctly answer questions on the test. Example items can be found in Figures 2 through 5.
+
+
 
 The longitudinal (with submission of each project stage) assessments were of self-perceptions of one’s:
 
@@ -66,10 +68,15 @@ The self-perceptions were assessed on 4-point, Likert-type scales (see Table 1)
 | <sub>I am ___ that I can clearly explain my figure in writing</sub> | <p><sub>Completely Unconfident</sub></p><p><sub>Somewhat Unconfident</sub></p><p><sub>Somewhat Confident</sub></p><p><sub>Completely Confident</sub></p> |
 
 # Results
-All measures were converted to proportion change scores such that positive scores across assignments or tests indicated an improvement in scores whereas a negative score for attitudes reflected moving closer to expert opinion. Students reported significant increases in self-perceptions (*t*s[22] >2.64, *p*s < .02), assignment scores (*t*[56] = 6.57, *p* < .001), test-scores (*t*s[68] > 4.44, *p*s < .0001), and significantly closer to expert attitudes on “real world connections” (*t*[65] = 2.43, *p* = 0.017), “problem solving: reasoning” (*t*[65] = 2.49, *p* = 0.015), “problem solving: strategies” (*t*[65] = 4.23, *p* < .001), “problem solving: effort” (*t*[65] = 4.67, p < .001) and “conceptual connections / memorization” (*t*[65] = 3.71, *p* < .001). It was hypothesized that improvement in assignment scores would be associated with changes in attitude and test scores but this was not supported. This may be due to changes in grading rubrics across semesters. Interestingly, those whose attitudes more aligned with experts across the semester improved more on measures of primary literature identification (*r*[63] = -0.43, *p* < 0.001), data interpretation (*r*[63] = -0.37, *p* < 0.005), and mastery of course concepts (*r*[63] = -0.46, p < 0.001).
+All measures were converted to proportion change scores such that positive scores across assignments or tests indicated an improvement in scores whereas a negative score for attitudes reflected moving closer to expert opinion. Students reported significant increases in self-perceptions (*t*s[22] >2.64, *p*s < .02), assignment scores (*t*[56] = 6.57, *p* < .001), test-scores (*t*s[68] > 4.44, *p*s < .0001), and significantly closer to expert attitudes on “real world connections” (*t*[65] = 2.43, *p* = 0.017), “problem solving: reasoning” (*t*[65] = 2.49, *p* = 0.015), “problem solving: strategies” (*t*[65] = 4.23, *p* < .001), “problem solving: effort” (*t*[65] = 4.67, p < .001) and “conceptual connections / memorization” (*t*[65] = 3.71, *p* < .001). It was hypothesized that improvement in assignment scores would be associated with changes in attitude and test scores, but this was not supported. This may be due to changes in grading rubrics across semesters. Interestingly, those whose attitudes more aligned with experts across the semester improved more on measures of primary literature identification (*r*[63] = -0.43, *p* < 0.001), data interpretation (*r*[63] = -0.37, *p* < 0.005), and mastery of course concepts (*r*[63] = -0.46, p < 0.001).
 
 # Discussion
 
+We believe this is a promising approach to improve research-critical skills in many sciences (i.e., chemistry, psychology, etc.). The current study utilized a within-subjects and correlational design to assess growth in research-critical skills. Although there are some benefits to this approach (greater statistical power), it did present some challenges. First, the need to develop two grading systems (one for pedagogy and scaffolding, the other for growth assessment) was a lesson learned during the project. Second, the need to update pedagogy across semesters increased variability (perhaps affected the reliability) of our assessments. Third, the within-subjects design only allowed us to see the growth within this approach but did not provide an opportunity to directly compare the method to other (or no) methods.
+
+It is important to state that the impetus for this project originated in feedback students had provided Dr. Formherz after taking the MCAT and pursuing graduate or medical school. Students expressed some negative affect before and during the completion of the project but greatly appreciated the benefits after. We suspect that this effect will prove to be even stronger for underprepared students. 
+
+Future researchers interested in this approach should consider an experimental approach by comparing the progress students make with the Student-Written Case-Study to other control groups. These control groups may include students taking several practice MCAT/GRE tests throughout the semester, writing literature reviews, or simply reading empirical articles for class preparation.
 
 ### References
 
