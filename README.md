@@ -1,3 +1,5 @@
+![APS Poster](APS_Virtual_Poster_WI2020.pdf)
+
 # Improving Aptitudes and Attitudes through Student-Generated Case Studies
 
 Joseph S. Weaver, Ph.D.<sup>1</sup> & Sylvia Fromherz, Ph.D.<sup>2</sup>
