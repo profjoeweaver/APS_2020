@@ -111,7 +111,7 @@ We believe this is a promising approach to improve research-critical skills in m
 
 It is important to state that the impetus for this research originated in feedback students had provided Dr. Formherz after taking the MCAT and pursuing graduate or medical school. Students expressed some negative affect before and during the completion of the student-generated case study but greatly appreciated the benefits after. We suspect that this effect will prove to be even stronger for underprepared students. 
 
-Future researchers interested in this approach should consider an experimental approach by comparing the progress students make with the Student-Written Case-Study to other control groups. These control groups may include students taking several practice MCAT/GRE tests throughout the semester, writing literature reviews, or simply reading empirical articles for class preparation.
+Future researchers interested in this approach should consider an experimental approach by comparing the progress students make with the student-generated case study to other control groups. These control groups may include students taking several practice MCAT/GRE tests throughout the semester, writing literature reviews, or simply reading empirical articles for class preparation.
 
 ### References
 
