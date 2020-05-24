@@ -1,4 +1,4 @@
-![APS Poster](APS_Virtual_Poster_WI2020.pdf)
+[APS Poster](APS_Virtual_Poster_WI2020.pdf)
 
 # Improving Aptitudes and Attitudes through Student-Generated Case Studies
 
